@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+'''EDIT THE GREATER OR EQUAL SIGN TO LESS THAN OR EQUAL TO MOSTLY BECAUSE THE GRADE WILL BE THE WRONG LETTER'''
+
 '''Plan is to create a small data base of our class so i can search and grade mine or others work including teachers
 Start time 1:00pm 10/5/22 finished part of it at 7:00, Finished most of the project but now im moving on to the Bingo game
 .started working at 9:00am stopped working at 11:53am'''
