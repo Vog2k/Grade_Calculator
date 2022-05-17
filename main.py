@@ -1,6 +1,6 @@
                                             # Grading Calculator
-
-"""EDIT THE GREATER OR EQUAL SIGN TO LESS THAN OR EQUAL TO MOSTLY BECAUSE THE GRADE WILL BE THE WRONG LETTER"""
+'''My original goal was to add teachers and students but after touching on the bingo project i had build
+ a simple grade calculator'''
 
 '''Plan is to create a small data base of our class so i can search and grade mine or others work including teachers
 Start time 1:00pm 10/5/22 finished part of it at 7:00, Finished most of the project but now im moving on to the Bingo
