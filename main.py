@@ -71,16 +71,3 @@ while True:
         print('Failed, Please try again')
     if Search == "Q" or Search == "q":
         break
-
-# My little test area
-'''for Teacher_0 in array:
-    print('One second.')
-    if successful:
-        print("Welcome Muhammad Azam.")
-else:
-    print("Please enter a valid name")
-
-if array:'''
-
-#  Is it possible to have a small login
-#  How to only search for specific words like in an array
