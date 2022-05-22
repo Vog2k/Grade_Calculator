@@ -88,7 +88,7 @@ result pass"""
 
 """Test case: Testing that the users inputs compiles 
 input: 10, 20
-expected output: 15% - F
+expected output: 0% - F
 actual output: 0% - 0
 result fail"""
 
@@ -97,3 +97,15 @@ input: 80, 59
 expected output: 15% - F
 actual output: 0% - 0
 result fail"""
+
+"""Test case: Testing that the users inputs compiles 
+input: 80, 59
+expected output: 69.5 % - D
+actual output: 69.5 % - D
+result pass"""
+
+"""Test case: Testing that the users inputs compiles 
+input: 78, 65
+expected output: 71.5% - B
+actual output: 71.5% - B
+result pass"""
